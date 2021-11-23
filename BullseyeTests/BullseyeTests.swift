@@ -2,7 +2,7 @@
 //  BullseyeTests.swift
 //  BullseyeTests
 //
-//  Created by amanduh on 9/23/21.
+//  Created by amanda on 9/23/21.
 //
 
 import XCTest

@@ -2,7 +2,7 @@
 //  BackgroundView.swift
 //  Bullseye
 //
-//  Created by amanduh on 9/30/21.
+//  Created by amanda on 9/30/21.
 //
 
 import SwiftUI

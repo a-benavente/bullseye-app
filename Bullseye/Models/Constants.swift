@@ -2,7 +2,7 @@
 //  Models.swift
 //  Bullseye
 //
-//  Created by amanduh on 10/2/21.
+//  Created by amanda on 10/2/21.
 //
 
 import Foundation

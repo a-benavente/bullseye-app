@@ -2,7 +2,7 @@
 //  Game.swift
 //  Bullseye
 //
-//  Created by amanduh on 9/22/21.
+//  Created by amanda on 9/22/21.
 //
 
 import Foundation

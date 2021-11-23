@@ -2,7 +2,7 @@
 //  TextViews.swift
 //  Bullseye
 //
-//  Created by amanduh on 9/26/21.
+//  Created by amanda on 9/26/21.
 //
 
 import SwiftUI

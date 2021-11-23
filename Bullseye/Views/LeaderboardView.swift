@@ -2,7 +2,7 @@
 //  LeaderboardView.swift
 //  Bullseye
 //
-//  Created by amanduh on 10/3/21.
+//  Created by amanda on 10/3/21.
 //
 
 import SwiftUI
